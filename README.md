@@ -5,7 +5,7 @@
 
 You'll need the latest version of Xcode to run this, thats version 13. However, it might be better to get the latest beta version as that's what I've been using. Its Version 14 beta 6, available here: https://developer.apple.com/download/all/?q=Xcode
 
-Once you manage to open the project, try running it in the simulator. It should work fine and show a map with five annotations around London.
+Clone the project into Xcode. Once you manage to open the project, try running it in the simulator. It should work fine and show a map with five annotations around London.
 
 
 
